@@ -1,0 +1,4 @@
+debug = false
+
+[forced-clients]
+"testServer" = "mod"
